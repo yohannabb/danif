@@ -6,7 +6,7 @@ import {
   Copy, Upload, AlertTriangle, Check, Search, Clock, ShieldCheck, Lock
 } from 'lucide-react';
 
-const API_URL = 'https://amiable-determination-production-c638.up.railway.app';
+const API_URL = 'https://danib-production.up.railway.app/';
 
 export default function App() {
   const [isAdminView, setIsAdminView] = useState(false);
